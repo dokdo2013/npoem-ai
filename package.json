@@ -4,6 +4,7 @@
   "scripts": {
     "build": "turbo build",
     "web": "turbo run --filter=@npoem-ai/web",
+    "api": "turbo run --filter=@npoem-ai/api",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
