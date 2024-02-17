@@ -45,3 +45,11 @@ export const pretendard = localFont({
 export const renaissance = localFont({
   src: "../../public/fonts/Og-Renaissance.woff2",
 });
+
+export const cafe24Ssurround = localFont({
+  src: "../../public/fonts/Cafe24Ssurround-v2.0.woff2",
+});
+
+export const cafe24Oneprettynight = localFont({
+  src: "../../public/fonts/Cafe24Oneprettynight-v2.0.woff2",
+});
