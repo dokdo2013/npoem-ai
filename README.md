@@ -1,6 +1,16 @@
-# N행시 AI Generator
+# N행시 AI Generator (npoem.kr)
 
 OpenAI API를 활용한 N행시 AI Generator
+
+## Technologies
+
+- Monorepo : Pnpm workspace, Turborepo
+- Frontend : Next.js, Shadcn UI
+- Backend : NestJS, Sequelize
+- Database : MySQL (Planetscale), Redis (Upstash)
+- Object Storage : Cloudflare R2
+- DevOps : Vercel, Kubernetes, GitHub Actions, DockerHub
+- Etc : Sentry (Self-Hosted), Grafana
 
 ## Local Development Guide
 
